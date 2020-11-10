@@ -1,10 +1,13 @@
 _repo: The-Temptress-La-tierra-de-todos_63649
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ongley, Leo
     gutenberg_agent_id: '50451'
     url: http://www.gutenberg.org/2009/agents/50451
+covers:
+- cover_type: archival
+  image_path: 63649-h/images/cover.jpg
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -19,6 +22,8 @@ creator:
     - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
     - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63649#The-Temptress-La-tierra-de-todos
 gutenberg_issued: '2020-11-06'
 gutenberg_type: Text
 identifiers:
